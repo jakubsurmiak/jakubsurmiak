@@ -17,7 +17,9 @@
 		font-style: normal;
 		line-height: 1.5em;
 		text-align: center;
-		<!-- text-shadow: 2px 3px 6px gray--> }
+		font-weigh: bold;
+		}
+		<!-- text-shadow: 2px 3px 6px gray--> 
 		#cplusplus {	color: #808EFF;	text-shadow: 2px 2px 0px #4b5499}
 		#jedenc { color: #E86897; text-shadow: 2px 2px 0px #9a4464}
 		.HTML {	color: #68E89F;   text-shadow: 2px 2px 0px #429164}
