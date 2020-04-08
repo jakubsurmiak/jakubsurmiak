@@ -13,9 +13,9 @@
 		#li2 {	color: #68E89F;	font-size: 30px; text-align: left; text-shadow: 2px 2px 0px #429164}
 		#li3 {	color: #68E89F;	font-size: 30px; text-align: left; text-shadow: 2px 2px 0px #429164}
 		body {	background-color: #FFCE73;
-		font-family:fantasy;
+		font-family: fantasy;
 		font-size: 2em;
-		font-style: normal;
+		font-style: italic;
 		line-height: 1.5em;
 		text-align: center;
 		<!-- text-shadow: 2px 3px 6px gray--> }
@@ -29,7 +29,7 @@
 		a {	color: #68E89F;
 				text-decoration: none;
 				opacity: 0.99}
-		
+
 		.span {
 			color: #E86897;
 		}
