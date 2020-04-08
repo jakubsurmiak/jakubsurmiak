@@ -17,12 +17,11 @@
 		font-style: normal;
 		line-height: 1.5em;
 		text-align: center;
-		font-weigh: bold;
 		}
 		<!-- text-shadow: 2px 3px 6px gray--> 
 		#cplusplus {	color: #808EFF;	text-shadow: 2px 2px 0px #4b5499}
 		#jedenc { color: #E86897; text-shadow: 2px 2px 0px #9a4464}
-		.HTML {	color: #68E89F;   text-shadow: 2px 2px 0px #429164}
+		.HTML {	color: #68E89F;   text-shadow: 2px 2px 0px #429164; font-weigh: bold;}
 		#szablon { color: #E86897; text-shadow: 2px 2px 0px #9a4464}
 		.szablony { color: #FFF168; }
 		#info {	color: #FFF168; }
@@ -54,7 +53,7 @@
 							<li id="li2"><a href="#HTML">HTML</a></li>
 							<li id="li3"><a href="#CSS">CSS</a></li>
 						</ol></div>
-		<!-- c++ -->
+		
 		<h2 id="cplusplus">1. C<span class="span">++</span></h2>
 						<div id="div"><p id="jedenc">1. Biblioteka &#60;string&#62;</p>
 						<a target="_blank" href="http://cpp0x.pl/kursy/Kurs-C++/Biblioteka-string/319"> <!-- lub napis zamiast obrazu --> <br>
