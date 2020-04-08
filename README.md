@@ -95,7 +95,7 @@
 					</div></p>
 						<!-- TABELA -->
 					<p id="szablon">3. Tabele<br>
-							<table border=2 class="HTML" align="center" id="srodek">
+							<table bgcolor=#808EFF class="HTML" align="center" id="srodek">
 								<thead>
 									<tr>
 										<th>1kolumna</th>
