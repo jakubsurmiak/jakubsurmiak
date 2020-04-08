@@ -14,11 +14,11 @@
 		body {	background-color: #FFCE73;
 		font-family: fantasy; font-size: 38px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 57px; 
 		text-align: center;}
-		#cplusplus {	color: #808EFF;	text-shadow: 2px 2px 0px #4b5499}
-		#jedenc { color: #E86897; text-shadow: 1px 1px 0px #9a4464}
-		.HTML {	color: #68E89F;   font-size: 30px; text-shadow: 1px 1px 0px #429164;
+		#cplusplus {	color: #808EFF;	font-size: 40px; text-shadow: 1px 1px 0px #4b5499}
+		#jedenc { color: #E86897; font-size: 20px; text-shadow: 1px 1px 0px #9a4464}
+		.HTML {	color: #68E89F;   font-size: 20px; text-shadow: 1px 1px 0px #429164;
 			backgroud-color: #808EFF;}
-		#szablon { color: #E86897; text-shadow: 2px 2px 0px #9a4464}
+		#szablon { color: #E86897; font-size: 20px; text-shadow: 1px 1px 0px #9a4464}
 		.szablony { color: #FFF168; }
 		#info {	color: #FFF168; }
 		#htmlll {color: #808EFF; font-size: 40px; text-shadow: 1px 1px 0px #4b5499}
@@ -77,18 +77,18 @@
 														&nbsp;&nbsp; &#60;/body&#62;<br>
 														&nbsp;&nbsp; &#60;/html&#62;<br>
 													</p>
-						<p class="HTML"><div class="HTML"> 2. Pomocne </div><br>
+						<p class="HTML"><div id="htmlll"> 2. Pomocne </div><br>
 							<br>
-						&nbsp;&nbsp;	&#60;img src="link" alt="opis zdjęcia" width="rozmiar"&#62;<br>
+						<div class="HTML"> &nbsp;&nbsp;	&#60;img src="link" alt="opis zdjęcia" width="rozmiar"&#62;<br>
 						<br>
 						&nbsp;&nbsp;id to #<br>
 						<br>
 						&nbsp;&nbsp;class to kropka i nazwa
 
-
+						</div>
 						</p>
 						
-					<p class="HTML" if="tlo">3. Tabele<br>
+					<p id="htmlll" id="tlo">3. Tabele<br>
 							<table class="HTML">
 								<thead>
 									<tr>
