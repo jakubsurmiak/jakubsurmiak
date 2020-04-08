@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>programowanie</title>
@@ -43,7 +42,7 @@
 	</head>
 
 	<body>
-		<!-- TYTUŁ -->
+		
 		<div id="tytul"><h1 id="INFORMATYKA">INFORMATYKA</h1></div>
 						<div id="lista"><p id="biblia"><strong>BIBLIOTEKA JĘZYKÓW</strong></p>
 						<ol>
@@ -51,7 +50,7 @@
 							<li id="li2"><a href="#HTML">HTML</a></li>
 							<li id="li3"><a href="#CSS">CSS</a></li>
 						</ol></div>
-		<!-- c++ -->
+		
 		<h2 id="cplusplus">1. C<span class="span">++</span></h2>
 						<div id="div"><p id="jedenc">1. Biblioteka &#60;string&#62;</p>
 						<a target="_blank" href="http://cpp0x.pl/kursy/Kurs-C++/Biblioteka-string/319"> <!-- lub napis zamiast obrazu --> <br>
@@ -59,8 +58,8 @@
 						</a>
 					</div>
 
-		<!-- HTML -->
-		<h2 id="htmlll"class="HTML">2. HTML</h2>
+		
+		<h2 id="htmlll" class="HTML"> 2. HTML </h2>
 						<p id="szablon">1. Szablon html</p>
 						<p class="HTML">&#60;!DOCTYPE html&#62;<br>
 														&nbsp;&nbsp; &#60;html&#62;<br>
