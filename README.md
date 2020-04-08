@@ -45,74 +45,7 @@
 	</head>
 
 	<body>
-		<!-- TYTUŁ -->
+		
 		<div id="tytul"><h1 id="INFORMATYKA">INFORMATYKA</h1></div>
-						<div id="lista"><p id="biblia"><strong>BIBLIOTEKA JĘZYKÓW</strong></p>
-						<ol>
-							<li id="li1"><a href="#cplusplus">C++</a></li>
-							<li id="li2"><a href="#HTML">HTML</a></li>
-							<li id="li3"><a href="#CSS">CSS</a></li>
-						</ol></div>
-		
-		<h2 id="cplusplus">1. C<span class="span">++</span></h2>
-						<div id="div"><p id="jedenc">1. Biblioteka &#60;string&#62;</p>
-						<a target="_blank" href="http://cpp0x.pl/kursy/Kurs-C++/Biblioteka-string/319"> <!-- lub napis zamiast obrazu --> <br>
-							<img src="https://operon.pl/var/operon/storage/images/media/pliki/do_kuriera/operon-programowanie-jezyk-xxi-wieku/212370-1-pol-PL/Operon-Programowanie-jezyk-XXI-wieku.jpg" alt="programowanie" width="200">
-						</a>
-					</div>
-
-		
-		<h2 id="htmlll"class="HTML">2. HTML</h2>
-						<p id="szablon">1. Szablon html</p>
-						<p class="HTML">&#60;!DOCTYPE html&#62;<br>
-														&nbsp;&nbsp; &#60;html&#62;<br>
-														&nbsp;&nbsp;&nbsp;&nbsp;	&#60;head&#62;<br>
-														&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		&#60;title&#62;programowanie&#60;/title&#62;<br>
-														&nbsp;&nbsp;&nbsp;&nbsp;	&#60;style&#62;<br>
-														<br>
-														&nbsp;&nbsp;&nbsp;&nbsp;		&#60;/style&#62;<br>
-														&nbsp;&nbsp;&nbsp;&nbsp;		&#60;/head&#62;<br>
-														&nbsp;&nbsp; &#60;body&#62;<br>
-														<br>
-														&nbsp;&nbsp; &#60;/body&#62;<br>
-														&nbsp;&nbsp; &#60;/html&#62;<br>
-													</p>
-						<p class="HTML">	2. Pomocne<br>
-							<br>
-						&nbsp;&nbsp;	&#60;img src="link" alt="opis zdjęcia" width="rozmiar"&#62;<br>
-						<br>
-						&nbsp;&nbsp;id to #<br>
-						<br>
-						&nbsp;&nbsp;class to kropka i nazwa
-
-
-						</p>
-						<!-- TABELA -->
-					<p class="HTML">3. Tabele<br>
-							<table class="HTML">
-								<thead>
-									<tr>
-										<th>1kolumna</th>
-										<th>2kolumna</th>
-										<th>3kolumna</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>Jakub</td>
-										<td>Surmiak</td>
-										<td>18</td>
-									</tr>
-									<tr>
-										<td>Andrzej</td>
-										<td>Kowal</td>
-										<td>20</td>
-									</tr>
-								</tbody>
-							</table>
-					</p>
-
-		<h2 id="CSS">3. CSS</h2>
-
-	</body>
+						
 </html>
