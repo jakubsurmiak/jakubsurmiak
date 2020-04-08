@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>programowanie</title>
@@ -61,7 +60,7 @@
 						</a>
 					</div>
 
-		<!-- HTML -->
+		
 		<h2 id="htmlll"class="HTML">2. HTML</h2>
 						<p id="szablon">1. Szablon html</p>
 						<p class="HTML">&#60;!DOCTYPE html&#62;<br>
