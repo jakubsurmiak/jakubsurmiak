@@ -12,7 +12,7 @@
 		#li2 {	color: #68E89F;	font-size: 30px; text-align: left; text-shadow: 2px 2px 0px #429164}
 		#li3 {	color: #68E89F;	font-size: 30px; text-align: left; text-shadow: 2px 2px 0px #429164}
 		body {	background-color: #FFCE73;
-		font-family:fantasy;
+		font-family: fantasy;
 		font-size: 2em;
 		font-style: normal;
 		line-height: 1.5em;
