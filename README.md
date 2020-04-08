@@ -13,16 +13,15 @@
 		#li3 {	color: #68E89F;	font-size: 30px; text-align: left; text-shadow: 2px 2px 0px #429164}
 		body {	background-color: #FFCE73;
 		font-family: fantasy; font-size: 38px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 57px; 
-		text-align: center;
-		<!-- text-shadow: 2px 3px 6px gray--> }
+		text-align: center;}
 		#cplusplus {	color: #808EFF;	text-shadow: 2px 2px 0px #4b5499}
-		#jedenc { color: #E86897; text-shadow: 2px 2px 0px #9a4464}
-		.HTML {	color: #68E89F;   font-size: 40px: text-shadow: 2px 2px 0px #429164;
+		#jedenc { color: #E86897; text-shadow: 1px 1px 0px #9a4464}
+		.HTML {	color: #68E89F;   font-size: 40px; text-shadow: 1px 1px 0px #429164;
 			backgroud-color: #808EFF;}
 		#szablon { color: #E86897; text-shadow: 2px 2px 0px #9a4464}
 		.szablony { color: #FFF168; }
 		#info {	color: #FFF168; }
-		#htmlll {color: #808EFF;	text-shadow: 2px 2px 0px #4b5499}
+		#htmlll {color: #808EFF;	text-shadow: 1px 1px 0px #4b5499}
 		a {	color: #68E89F;
 				text-decoration: none;
 				opacity: 0.99}
@@ -31,7 +30,7 @@
 			color: #E86897;
 		}
 		#div {
-			background-color: #68E89F;
+			text-shadow: 1px 1px 0px #9a4464; background-color: #68E89F;
 		}
 		#tytul {
 			background-color: #68E89F;
