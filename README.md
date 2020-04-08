@@ -16,21 +16,21 @@
 		text-align: center;}
 		#cplusplus {	color: #808EFF;	text-shadow: 2px 2px 0px #4b5499}
 		#jedenc { color: #E86897; text-shadow: 1px 1px 0px #9a4464}
-		.HTML {	color: #68E89F;   font-size: 40px; text-shadow: 1px 1px 0px #429164;
+		.HTML {	color: #68E89F;   font-size: 30px; text-shadow: 1px 1px 0px #429164;
 			backgroud-color: #808EFF;}
 		#szablon { color: #E86897; text-shadow: 2px 2px 0px #9a4464}
 		.szablony { color: #FFF168; }
 		#info {	color: #FFF168; }
-		#htmlll {color: #808EFF;	text-shadow: 1px 1px 0px #4b5499}
+		#htmlll {color: #808EFF; font-size: 40px; text-shadow: 1px 1px 0px #4b5499}
 		a {	color: #68E89F;
 				text-decoration: none;
 				opacity: 0.99}
 
 		.span {
-			color: #E86897;
+			text-shadow: 1px 1px 0px #9a4464; color: #E86897;
 		}
 		#div {
-			text-shadow: 1px 1px 0px #9a4464; background-color: #68E89F;
+			background-color: #68E89F;
 		}
 		#tytul {
 			background-color: #68E89F;
@@ -77,7 +77,7 @@
 														&nbsp;&nbsp; &#60;/body&#62;<br>
 														&nbsp;&nbsp; &#60;/html&#62;<br>
 													</p>
-						<p class="HTML">	2. Pomocne<br>
+						<p class="HTML"><div class="HTML"> 2. Pomocne </div><br>
 							<br>
 						&nbsp;&nbsp;	&#60;img src="link" alt="opis zdjęcia" width="rozmiar"&#62;<br>
 						<br>
