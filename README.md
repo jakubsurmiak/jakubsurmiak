@@ -13,10 +13,7 @@
 		#li2 {	color: #68E89F;	font-size: 30px; text-align: left; text-shadow: 2px 2px 0px #429164}
 		#li3 {	color: #68E89F;	font-size: 30px; text-align: left; text-shadow: 2px 2px 0px #429164}
 		body {	background-color: #FFCE73;
-		font-family: fantasy;
-		font-size: 2em;
-		font-style: italic;
-		line-height: 1.5em;
+		font-family: fantasy; font-size: 38px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 57px; 
 		text-align: center;
 		<!-- text-shadow: 2px 3px 6px gray--> }
 		#cplusplus {	color: #808EFF;	text-shadow: 2px 2px 0px #4b5499}
