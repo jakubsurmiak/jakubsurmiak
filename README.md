@@ -42,14 +42,14 @@
 			text-align: center;
 			list-style-position: inside;
 		}
-		#srodek {
-				background-color: #808EFF;
-		}
+		
 		#pomocne {
 				color: #E86897; text-shadow: 2px 2px 0px #9a4464;
 		}
 		#obraz {
-			box-shadow: 2px 2px 0 #4b5499;
+			-webkit-text-shadow: 6px 6px 0px -1px #4b5499;
+			-moz-text-shadow:6px 6px 0px -1px #4b5499;
+			box-shadow: 6px 6px 0px -1px #4b5499;
 		}
 		</style>
 	</head>
@@ -99,7 +99,7 @@
 					</div></p>
 						<!-- TABELA -->
 					<p id="szablon">3. Tabele<br>
-							<table border class="HTML" align="center" id="srodek">
+							<table bgcolor=#808EFF border=2 class="HTML" align="center" id="srodek">
 								<thead>
 									<tr>
 										<th>1kolumna</th>
