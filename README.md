@@ -17,7 +17,8 @@
 		<!-- text-shadow: 2px 3px 6px gray--> }
 		#cplusplus {	color: #808EFF;	text-shadow: 2px 2px 0px #4b5499}
 		#jedenc { color: #E86897; text-shadow: 2px 2px 0px #9a4464}
-		.HTML {	color: #68E89F;   text-shadow: 2px 2px 0px #429164}
+		.HTML {	color: #68E89F;   font-size: 40px: text-shadow: 2px 2px 0px #429164;
+			backgroud-color: #808EFF;}
 		#szablon { color: #E86897; text-shadow: 2px 2px 0px #9a4464}
 		.szablony { color: #FFF168; }
 		#info {	color: #FFF168; }
@@ -36,6 +37,9 @@
 			background-color: #68E89F;
 		}
 		#lista {
+			background-color: #E86897;
+		}
+		#tlo {
 			background-color: #E86897;
 		}
 		</style>
@@ -84,8 +88,8 @@
 
 
 						</p>
-						<!-- TABELA -->
-					<p class="HTML">3. Tabele<br>
+						
+					<p class="HTML" if="tlo">3. Tabele<br>
 							<table class="HTML">
 								<thead>
 									<tr>
