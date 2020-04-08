@@ -29,7 +29,7 @@
 		.span {
 			color: #E86897;
 			fot-size: 40px;
-			text-shadow: 1.5px 1.5px 0 #E86897; 
+			text-shadow: 1.5px 1.5px 0 #E86897;
 		}
 		#div {
 			background-color: #68E89F;
@@ -42,15 +42,11 @@
 			text-align: center;
 			list-style-position: inside;
 		}
-		
+
 		#pomocne {
 				color: #E86897; text-shadow: 2px 2px 0px #9a4464;
 		}
-		#obraz {
-			-webkit-text-shadow: 6px 6px 0px -1px #4b5499;
-			-moz-text-shadow:6px 6px 0px -1px #4b5499;
-			box-shadow: 6px 6px 0px -1px #4b5499;
-		}
+
 		</style>
 	</head>
 
