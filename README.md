@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>ĆWICZENIE</title>
@@ -14,6 +13,8 @@
         color: #191D80;
       }
       body {
+        padding: 0;
+        margin: 0;
         background-color: #8084FF;
       }
       #strona_glowna {
@@ -33,5 +34,6 @@
     <br>
     <h2 id="strona_glowna">STRONA GŁÓWNA</h2>
     <p>Strona jest tworzona w celu nauki tworzenia stron</p>
-  </body>
+     
+</body>
 </html>
